@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-29T11:52:31 IST" name="Suite" finished-at="2023-03-29T11:53:06 IST" duration-ms="35494">
+    <groups>
+    </groups>
+    <test started-at="2023-03-29T11:52:31 IST" name="Test" finished-at="2023-03-29T11:53:06 IST" duration-ms="35494">
+      <class name="com.actiTIME.testcase.ActitimeLoginLogout">
+        <test-method is-config="true" signature="executionStart()[pri:0, instance:com.actiTIME.testcase.ActitimeLoginLogout@4fb0f2b9]" started-at="2023-03-29T11:52:31 IST" name="executionStart" finished-at="2023-03-29T11:52:31 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executionStart -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.actiTIME.testcase.ActitimeLoginLogout@4fb0f2b9]" started-at="2023-03-29T11:52:31 IST" name="setup" finished-at="2023-03-29T11:52:52 IST" duration-ms="20570" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginlogout()[pri:0, instance:com.actiTIME.testcase.ActitimeLoginLogout@4fb0f2b9]" started-at="2023-03-29T11:52:52 IST" name="loginlogout" finished-at="2023-03-29T11:53:06 IST" duration-ms="14871" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginlogout -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.actiTIME.testcase.ActitimeLoginLogout@4fb0f2b9]" started-at="2023-03-29T11:53:06 IST" name="teardown" finished-at="2023-03-29T11:53:06 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="executionComplete()[pri:0, instance:com.actiTIME.testcase.ActitimeLoginLogout@4fb0f2b9]" started-at="2023-03-29T11:53:06 IST" name="executionComplete" finished-at="2023-03-29T11:53:06 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executionComplete -->
+      </class> <!-- com.actiTIME.testcase.ActitimeLoginLogout -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
